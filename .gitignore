@@ -1,0 +1,13 @@
+# Ignore pycache directories
+__pycache__/
+
+# Ignore compiled Python files
+*.pyc
+
+# Ignore environment files
+.venv
+
+# Ignore log files
+*.log
+
+# Ignore any other files that you don't want to track
